@@ -13,5 +13,5 @@ more and be aware of the risk of getting a stroke in advance. In addition, peopl
 the private sector and self-employees are also recommended for routinely taking relevant
 physical examinations.
 
-#### See for detailed analysis
-#### All the external data used in this project are in the data_used folder
+#### See [Stroke Prediction Analysis] (https://github.com/574567254/Stroke_Prediction_Analysis/blob/8976b846861169edaeb13a8d1021bd73ac41b3b5/Stroke_Prediction_Analysis.R) for detailed analysis
+#### All the external data used in this project are in the [data_used](https://github.com/574567254/Stroke_Prediction_Analysis/blob/8976b846861169edaeb13a8d1021bd73ac41b3b5/data_used) folder
