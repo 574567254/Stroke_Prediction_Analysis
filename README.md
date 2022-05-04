@@ -2,7 +2,7 @@
 ## Aims to build a classification model that can provide a basic understanding of what types of personal characteristics are likely to cause stroke and the probability that those characteristics cause stroke.
 
 The classification model can help doctors or
-researchers to predict the risk of a person under the stroke once we input new data. We will also establish an unsupervised model, try to compress the dataset by identifying
+researchers to predict the risk of a person under the stroke once been inputed with new data. We will also establish an unsupervised model, try to compress the dataset by identifying
 which features are most useful in identifying different examples. We can
 potentially discard the less significant ones for further analysis.
 
